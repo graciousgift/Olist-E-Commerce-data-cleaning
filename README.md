@@ -29,6 +29,6 @@ Raw data: Kaggle, Olist Brazilian E-Commerce Public Dataset (CC BY-NC-SA 4.0). O
 
 ## How to run
 1. Download the 8 CSV files from the Kaggle link above and combine them into one Excel workbook (one sheet per CSV, in this order: orders, category translation, customers, payments, items, geolocation, products, reviews). Save it as `E_Commerce_Brazil_Data.xlsx`.
-2. Open `Olist_Data_Cleaning_Notebook.ipynb` in Google Colab, upload the workbook, and run all cells. Or run `python olist_cleaning.py E_Commerce_Brazil_Data.xlsx output.xlsx`.
+2. Open `Olist_Data_Cleaning_Notebook_.ipynb` in Google Colab, upload the workbook, and run all cells. Or run `python olist_cleaning.py E_Commerce_Brazil_Data.xlsx output.xlsx`.
 
 **Licence:** Code is MIT. Data is Olist, CC BY-NC-SA 4.0 (see Kaggle).
